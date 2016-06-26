@@ -1,0 +1,22 @@
+{
+  "name": "angular-timedropper",
+  "version": "1.0.0",
+  "description": "This is an angular directive for jQuery plugin timedropper. http://felicegattuso.com/projects/timedropper/ ",
+  "main": "angular-time-dropper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinrostudio/angular-timedropper.git"
+  },
+  "keywords": [
+    "angular-timedropper"
+  ],
+  "author": "Pinro Studio <hello@pinrotech.com> (http://pinro.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pinrostudio/angular-timedropper/issues"
+  },
+  "homepage": "https://github.com/pinrostudio/angular-timedropper#readme"
+}
