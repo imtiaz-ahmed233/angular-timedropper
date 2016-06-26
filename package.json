@@ -1,6 +1,6 @@
 {
   "name": "angular-timedropper",
-  "version": "1.0.0",
+  "version": "1.2.2",
   "description": "This is an angular directive for jQuery plugin timedropper. http://felicegattuso.com/projects/timedropper/ ",
   "main": "angular-time-dropper.js",
   "scripts": {

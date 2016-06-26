@@ -1,16 +1,20 @@
-# angular-timedropper
+# angular-timedropper  
 [![npm version](https://badge.fury.io/js/angular-timedropper.svg)](https://badge.fury.io/js/angular-timedropper)
+
 This is an angular directive for jQuery plugin **timedropper**. 
 http://felicegattuso.com/projects/timedropper/
 
 ## Installation
-> npm install angular-timedropper
+
+    npm install angular-timedropper
 Or, simply download from github and add to your project.
+
 **Dependencies:**
 
-* jQuery
-* timedropper (https://github.com/felicegattuso/timedropper/)
+ 
 
+ - jQuery  
+ - timedropper (https://github.com/felicegattuso/timedropper/)
 
 ## Usage
 
@@ -49,5 +53,4 @@ http://felicegattuso.com/projects/timedropper/
 
     <input time-dropper on-change="valueText" mouse-wheel="true"/>
 
-Example on JSBin: http://jsbin.com/ziyipeh
-
+**Example on JSBin** - http://jsbin.com/ziyipeh
