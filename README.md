@@ -14,8 +14,13 @@ http://felicegattuso.com/projects/timedropper/
 ## Usage
 
  
+in html 
 
     <input time-dropper on-change="scope"/>
+
+in angular
+
+    angular.module('directives', ['angular-timedropper']);
 
 **Options**
 
